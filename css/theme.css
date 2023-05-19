@@ -2758,7 +2758,7 @@ body.h_m_9{
 .inner_page_banner_2 {
     position: relative;
     min-height: 400px;
-    background: url(../images/bg/f_banner_1.jpg) no-repeat center center / cover;
+    background: url("../images/portfolio/Portfolio Hero Image - 1.jpg") no-repeat center center / cover;
     padding: 200px 0 0;
 }
 .inner_page_banner_2:after{

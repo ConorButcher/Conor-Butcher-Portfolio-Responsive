@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6{
     line-height: 1.2;
 }
 a{
-    color: #1fb4cc;
+    color: #9cd02f;
     transition: all ease 300ms;
     -moz-transition: all ease 300ms;
     -webkit-transition: all ease 300ms;
@@ -52,7 +52,7 @@ a:focus{
 }
 .drox_btn{
     display: inline-block;
-    background: #1fb4cc;
+    background: #000;
     color: #FFF;
     font-family: 'Poppins', sans-serif;
     font-size: 12px;
@@ -84,7 +84,7 @@ a:focus{
     color: #FFF;
 }
 .drox_btn span {
-    background: #232931 none repeat scroll 0 0;
+    background: #9cd02f none repeat scroll 0 0;
     border-radius: 50%;
     display: block;
     height: 0;
@@ -103,7 +103,7 @@ a:focus{
     z-index: 1;
 }
 .drox_btn.white_black span{
-    background: #232931;
+    background: #9cd02f;
 }
 .drox_btn:hover span {
     height: 562.5px;

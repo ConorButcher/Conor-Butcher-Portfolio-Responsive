@@ -243,7 +243,7 @@ License URI:
     }
     .mobileMenuBar a{
         height: 50px;
-        background: #1fb4cc;
+        background: #9cd02f;
         display: inline-block;
         font-size: 14px;
         letter-spacing: 0;
@@ -316,7 +316,7 @@ License URI:
         cursor: pointer;
     }
     .mobile_menu .submenu_toggler:hover, .mobile_menu .submenu_toggler.active-span{
-        background: #1fb4cc;
+        background: #9cd02f;
     }
     .megali {
         position: relative !important;
@@ -326,7 +326,7 @@ License URI:
         position: relative;
         opacity: 1;
         visibility: visible;
-        background: #1fb4cc;
+        background: #9cd02f;
         width: 100%;
         min-width: 100%;
         padding: 0;
@@ -380,7 +380,7 @@ License URI:
         color: #17191b;
     }
     .mobile_menu ul ul.sub-menu ul.sub-menu li:hover > a, .mobile_menu ul ul.sub-menu ul.sub-menu li.active > a{
-        color: #1fb4cc;
+        color: #9cd02f;
     }
     .mobile_menu > ul > li:hover > .sub-menu {
         visibility: visible;
@@ -406,7 +406,7 @@ License URI:
         position: relative;
         opacity: 1;
         visibility: visible;
-        background: #1fb4cc;
+        background: #9cd02f;
         overflow: hidden;
         width: 100%;
         max-width: 100%;
@@ -625,7 +625,7 @@ License URI:
         text-align: right;
     }
     .mb_menu_5:hover{
-        color: #1fb4cc;
+        color: #9cd02f;
     }
     .menu_05{
         position: absolute;
@@ -648,7 +648,7 @@ License URI:
         z-index: 99;
         max-height: calc(100vh - 80px);
         overflow-y: scroll;
-        border-bottom: 2px solid #1fb4cc;
+        border-bottom: 2px solid #9cd02f;
     }
     .menu_05 ul li{
         display: block;
@@ -683,7 +683,7 @@ License URI:
         cursor: pointer;
     }
     .menu_05 ul li.menu-item-has-children.active > a:after{
-        background: #1fb4cc;
+        background: #9cd02f;
     }
     .menu_05 ul ul.sub-menu{
         padding: 0 0;
